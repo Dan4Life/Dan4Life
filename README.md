@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dan4Life
 - I’m a competitive programmer using mostly C++ to code.
-- Username is Dan4Life on most competitive programming sites.
-- I’m currently learning full stack developing
+- Username is Dan4Life on most competitive programming sites(Codeforces: CM_Dan4Life)
+- I’m currently trying to learn full stack developing
 - You can reach me on gmail: danielilozor2006@gmail.com
 
 <!---
