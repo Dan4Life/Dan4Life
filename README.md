@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Dan4Life
 - I’m a competitive programmer using mostly C++ to code.
-- Also a person trying out game development with C#.
-- Username is Dan4Life on most competitive programming sites(Codeforces: CM_Dan4Life)
-- Currently trying to learn full stack developing
-- You can reach me on gmail: danielilozor2006@gmail.com
+- Usually Dan4Life on CP <a href="https://codeforces.com/profile/CM_Dan4life">sites</a>
+- Trying to learn Full Stack Development
+- Trying out Game Development with Unity/C# 
 
 <!---
 Dan4Life/Dan4Life is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
