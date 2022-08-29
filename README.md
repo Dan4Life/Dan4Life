@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dan4Life
 - I’m a competitive programmer using mostly C++ to code.
-- Usually Dan4Life on CP <a href="https://codeforces.com/profile/CM_Dan4life">sites</a>
+- Usually Dan4Life on <a href="https://atcoder.jp/users/dan4life">CP</a> <a href="https://codeforces.com/profile/CM_Dan4life">sites</a>
 - Trying to learn Full Stack Development
 - Trying out Game Development with Unity/C# 
 
