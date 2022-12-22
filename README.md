@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Dan4Life
 - I’m a competitive programmer using mostly C++ to code.
 - Learning Full Stack Development
-- Trying out Game Development with Unity/C# 
-- Will most likely switch to Unreal/C++
 
 CP Badges:    
 [![Codeforces](https://badges.joonhyung.xyz/codeforces/CM_Dan4Life.svg)](https://codeforces.com/profile/CM_Dan4Life)
