@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dan4Life
-- I’m a Competitive Programmer(Cper)
+- I’m a Competitive Programmer(CPer)
 - Learning Full Stack Development
 - Username is Dan4Life on most CP sites
 <!---
