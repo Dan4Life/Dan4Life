@@ -1,5 +1,9 @@
-- 👋 Hi, I’m @Dan4Life
-- I’m a Competitive Programmer(CPer)
+👋 Hi, I’m @Dan4Life
+  
+I’m a: 
+- Competitive Programmer(CPer)
+- Software Developer
+- Manim Animator
 - Username is also Dan4Life on CP sites (like Codeforces, Atcoder, CodeChef)
 - I have frontend/backend experience, love machine learning :)
 <!---
