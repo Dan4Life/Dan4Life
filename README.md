@@ -2,9 +2,6 @@
 * Dan4Life on CP sites (eg CF, Atc, CC, ~LC~)
 * Software Dev 💻
 * Manim Animator 🐍
-* Redy to GM 🔺
-* Good Morning 👋
-* Interested in ML 🧠 
 
   
 <!---
