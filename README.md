@@ -2,6 +2,7 @@
 * Dan4Life on CP sites (eg CF, Atc, CC, ~LC~)
 * Software Dev 💻
 * Manim Animator 🐍
+* Problem Setter 🧠
 
   
 <!---
