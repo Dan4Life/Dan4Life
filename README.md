@@ -1,7 +1,8 @@
-* Competitive Programmer (CPer)
+* Competitive Programmer (CPer) 📈
 * Dan4Life on CP sites (eg CF, Atc, CC, ~LC~)
 * Software Dev 💻
-* Manim Animator 🐍
+* ML Engineering 🤖
+* Manimator 🐍
 * Problem Setter 🧠
 * Problem Solver 💡
 
