@@ -3,6 +3,7 @@
 * Software Dev 💻
 * Manim Animator 🐍
 * Problem Setter 🧠
+* Problem Solver 💡
 
   
 <!---
